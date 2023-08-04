@@ -1,0 +1,4 @@
+<configuration>
+    <!-- Configuraciones de logs -->
+    <logger name="org.hibernate" level="ERROR" />
+</configuration>
